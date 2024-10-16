@@ -1,0 +1,36 @@
+body {
+    background-color: rgba(155, 78, 43, 0.699);
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+nav {
+    display: flex;
+    align-items: inline;
+    gap: 10px;
+    justify-content: center;
+}
+
+a {
+    color: rgb(134, 27, 27);
+}
+
+a:hover {
+    color: white;
+}
+
+button {
+    background-color: rgba(255, 248, 220, 0.486);
+    padding: 5px;
+    margin-left: 10px;
+}
+
+button:hover {
+    background-color: black;
+}
+
+article {
+    border: 1px solid black;
+    padding: 5px;
+    margin-bottom: 15px;
+}
